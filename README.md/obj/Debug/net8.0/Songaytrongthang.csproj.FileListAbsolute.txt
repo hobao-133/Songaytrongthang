@@ -1,0 +1,14 @@
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\bin\Debug\net8.0\Songaytrongthang.exe
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\bin\Debug\net8.0\Songaytrongthang.deps.json
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\bin\Debug\net8.0\Songaytrongthang.runtimeconfig.json
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\bin\Debug\net8.0\Songaytrongthang.dll
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\bin\Debug\net8.0\Songaytrongthang.pdb
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\obj\Debug\net8.0\Songaytrongthang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\obj\Debug\net8.0\Songaytrongthang.AssemblyInfoInputs.cache
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\obj\Debug\net8.0\Songaytrongthang.AssemblyInfo.cs
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\obj\Debug\net8.0\Songaytrongthang.csproj.CoreCompileInputs.cache
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\obj\Debug\net8.0\Songaytrongthang.dll
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\obj\Debug\net8.0\refint\Songaytrongthang.dll
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\obj\Debug\net8.0\Songaytrongthang.pdb
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\obj\Debug\net8.0\Songaytrongthang.genruntimeconfig.cache
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Thực hành\Songaytrongthang\obj\Debug\net8.0\ref\Songaytrongthang.dll
